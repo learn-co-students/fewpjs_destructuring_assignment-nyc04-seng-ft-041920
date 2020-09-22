@@ -55,8 +55,8 @@ const doggie = {
 };
 
 const { first, breed } = doggie;
-console.log(first); 
-console.log(breed); 
+console.log(first); // Buzz
+console.log(breed); // Great Pyrenees
 
 ```
 
@@ -80,8 +80,8 @@ const doggie = {
 };
 
 const { ham, hot_dog } = doggie.favorite_foods.meats;
-console.log(ham); 
-console.log(hot_dog); 
+console.log(ham);     // smoked
+console.log(hot_dog); // oscar_meyer
 
 ```
 
